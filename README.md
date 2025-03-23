@@ -1,4 +1,4 @@
-# Dragon Knights
+# Dragon Mounts 2
 ![LOGO](src/main/resources/logo.png)
 
 A Minecraft mod that allows you to breed dragon eggs and foster them to ridable dragons.
